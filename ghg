@@ -1,0 +1,2 @@
+mkdir .ssh
+ssh-keygen -t ed25519 -C c2054665@ncl.ac.uk
